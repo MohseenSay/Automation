@@ -54,7 +54,7 @@
             <img src="2b259047-9484-4534-a8b9-60ace71943ee.jpeg" alt="Kid 1">
         </div>
         <div id="photo2" class="photo" draggable="true" ondragstart="drag(event)">
-            <img src="photo2.jpg" alt="Kid 2">
+            <img src="9fa54be2-10f8-492c-b979-7a990848df49.jpeg" alt="Kid 2">
         </div>
         <div id="photo3" class="photo" draggable="true" ondragstart="drag(event)">
             <img src="31863f43-ca35-4462-8bc0-e0939a7330a0.jpeg" alt="Kid 3">
