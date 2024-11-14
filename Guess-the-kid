@@ -51,7 +51,7 @@
     <div class="game-container">
         <!-- Photos to drag -->
         <div id="photo1" class="photo" draggable="true" ondragstart="drag(event)">
-            <img src="photo1.jpg" alt="Kid 1">
+            <img src="2b259047-9484-4534-a8b9-60ace71943ee.jpeg" alt="Kid 1">
         </div>
         <div id="photo2" class="photo" draggable="true" ondragstart="drag(event)">
             <img src="photo2.jpg" alt="Kid 2">
